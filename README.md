@@ -1,4 +1,4 @@
-## ⚙️ Desafio de Front-end (Versão Readme)
+## ⚙️ Desafio de Front-end
 
 ---
 
