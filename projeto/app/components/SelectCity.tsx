@@ -7,12 +7,12 @@ type Props = {
 
 export default function SelectCity({ onSelect }: Props) {
     const cities = [
-        "Dallol (ET)",
-        "Fairbanks (US)",
-        "Londres (GB)",
-        "Recife (BR)",
-        "Vancouver (CA)",
-        "Yakutsk (RU)"
+        "Dallol",
+        "Fairbanks",
+        "London",
+        "Recife",
+        "Vancouver",
+        "Yakutsk"
     ]
 
     return (
